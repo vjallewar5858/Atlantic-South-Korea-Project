@@ -1,0 +1,542 @@
+song_id,song,artist,total_appearances,reentry_count,avg_gap_days,max_gap_days,avg_popularity,peak_popularity,best_position,album_type,is_explicit,duration_min,total_tracks
+1-800-hot-n-fun || LE SSERAFIM,1-800-hot-n-fun,LE SSERAFIM,8,0,0.0,0,71.12,75,26,single,False,2.89,5
+24YB (Intro) || YANGHONGWON,24YB (Intro),YANGHONGWON,3,0,0.0,0,41.33,44,26,album,False,1.39,8
+3D (Alternate Ver.) || Jung Kook & Jack Harlow,3D (Alternate Ver.),Jung Kook & Jack Harlow,20,0,0.0,0,68.05,80,5,single,False,2.71,3
+3D (Justin Timberlake Remix) || Jung Kook & Justin Timberlake,3D (Justin Timberlake Remix),Jung Kook & Justin Timberlake,6,0,0.0,0,60.83,76,21,single,False,2.68,1
+3D (feat. Jack Harlow) (Alternate Ver.) || Jung Kook & Jack Harlow,3D (feat. Jack Harlow) (Alternate Ver.),Jung Kook & Jack Harlow,2,0,0.0,0,0.0,0,4,single,False,2.71,3
+3D (feat. Jack Harlow) (Instrumental) || Jung Kook & Jack Harlow,3D (feat. Jack Harlow) (Instrumental),Jung Kook & Jack Harlow,11,0,0.0,0,50.82,74,9,single,False,3.33,3
+3D (feat. Jack Harlow) (MK Remix) || Jung Kook & Jack Harlow & MK,3D (feat. Jack Harlow) (MK Remix),Jung Kook & Jack Harlow & MK,4,0,0.0,0,30.0,62,28,single,True,3.1,1
+3D (feat. Jack Harlow) || Jung Kook,3D (feat. Jack Harlow),Jung Kook,308,0,0.0,0,79.81,86,3,album,True,3.36,7
+3D (feat. Jack Harlow) || Jung Kook & Jack Harlow,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,112,0,0.0,0,84.63,89,2,single,True,3.36,3
+990 (Feat. Kim Ximya) || Beenzino,990 (Feat. Kim Ximya),Beenzino,5,0,0.0,0,46.4,50,18,album,True,3.56,18
+A Psalm of Life || Lim Young Woong,A Psalm of Life,Lim Young Woong,121,1,132.0,132,59.19,61,25,album,False,3.89,12
+A Yo (Feat. Beenzino) || E SENS,A Yo (Feat. Beenzino),E SENS,1,0,0.0,0,38.0,38,35,album,False,3.87,13
+A bientot || Lim Young Woong,A bientot,Lim Young Woong,282,5,21.6,48,58.77,62,18,album,False,4.27,12
+ABCD || NAYEON,ABCD,NAYEON,26,0,0.0,0,60.88,67,26,album,False,2.71,7
+AK47 || Men's Tear & 뷰티풀너드,AK47,Men's Tear & 뷰티풀너드,25,0,0.0,0,49.76,52,20,single,False,2.68,1
+ALL RED || Playboi Carti,ALL RED,Playboi Carti,3,0,0.0,0,83.67,86,13,single,True,2.47,1
+ANTIFRAGILE || LE SSERAFIM,ANTIFRAGILE,LE SSERAFIM,50,1,13.0,13,77.4,79,26,album,False,3.07,13
+APT. || ROSÉ & Bruno Mars,APT.,ROSÉ & Bruno Mars,39,0,0.0,0,94.72,98,2,single,False,2.83,1
+ASAP || NewJeans,ASAP,NewJeans,44,0,0.0,0,85.16,86,7,single,False,2.24,6
+Accendio || IVE,Accendio,IVE,2,0,0.0,0,59.5,60,49,single,False,3.2,6
+After LIKE || IVE,After LIKE,IVE,48,0,0.0,0,84.27,85,30,single,False,2.95,2
+All I Want for Christmas Is You || Mariah Carey,All I Want for Christmas Is You,Mariah Carey,12,0,0.0,0,99.75,100,9,album,False,4.02,10
+All Or Nothing || J Money & KingLee,All Or Nothing,J Money & KingLee,2,1,26.0,26,48.5,52,26,single,True,2.86,1
+Allergy || (G)I-DLE,Allergy,(G)I-DLE,25,0,0.0,0,75.48,78,17,single,False,2.71,6
+Alone || Jimin,Alone,Jimin,407,1,18.0,18,77.99,82,5,single,False,3.52,6
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version || Fast & Furious: The Fast Saga & Jimin & BTS","Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,87,2,71.5,102,71.55,81,10,single,False,1.05,1
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) || Fast & Furious: The Fast Saga","Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga,1,0,0.0,0,27.0,27,7,compilation,False,2.93,21
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) || Fast & Furious: The Fast Saga & Jimin & BTS","Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,217,0,0.0,0,82.07,90,1,single,False,2.93,2
+"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long) || Fast & Furious: The Fast Saga & Jimin & BTS","Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,65,1,71.0,71,73.12,75,5,single,False,2.94,2
+Another Level || Jin,Another Level,Jin,11,0,0.0,0,60.91,75,23,single,False,2.71,6
+Armageddon || aespa,Armageddon,aespa,178,0,0.0,0,74.16,80,4,album,False,3.27,10
+Armageddon || aespa & Grimes & Flava D,Armageddon,aespa & Grimes & Flava D,2,1,15.0,15,18.0,36,31,single,False,3.27,6
+As You Wish || WJSN,As You Wish,WJSN,2,0,0.0,0,52.5,53,39,single,False,3.26,7
+Attention (250 Remix) || NewJeans,Attention (250 Remix),NewJeans,1,0,0.0,0,58.0,58,47,album,False,3.02,12
+Attention || NewJeans,Attention,NewJeans,151,4,61.5,211,82.33,85,26,single,False,3.0,4
+BACK TO ME || Kanye West & Ty Dolla $ign,BACK TO ME,Kanye West & Ty Dolla $ign,2,0,0.0,0,82.0,84,23,album,True,4.92,16
+BAHAMA || aespa,BAHAMA,aespa,1,0,0.0,0,56.0,56,41,album,False,3.18,10
+BIRDS OF A FEATHER || Billie Eilish,BIRDS OF A FEATHER,Billie Eilish,185,0,0.0,0,97.49,100,15,album,False,3.51,10
+BURN || Kanye West & Ty Dolla $ign,BURN,Kanye West & Ty Dolla $ign,1,0,0.0,0,80.0,80,40,album,True,1.86,16
+"BY COLOR, WHITE COLOR (Feat. KOVV) || YANGHONGWON","BY COLOR, WHITE COLOR (Feat. KOVV)",YANGHONGWON,3,0,0.0,0,39.33,41,30,album,False,3.27,8
+Baddie || IVE,Baddie,IVE,62,3,14.0,18,78.4,83,10,single,False,2.57,6
+Baggy Jeans || NCT,Baggy Jeans,NCT,24,0,0.0,0,61.29,64,23,album,False,3.52,10
+Bam Yang Gang || BIBI,Bam Yang Gang,BIBI,77,0,0.0,0,74.34,77,4,single,False,2.44,2
+Be Mine || Jimin,Be Mine,Jimin,129,0,0.0,0,80.12,83,2,album,False,3.46,7
+Beautiful Things || Benson Boone,Beautiful Things,Benson Boone,86,0,0.0,0,93.77,100,20,single,False,3.01,1
+Better Things || aespa,Better Things,aespa,32,1,16.0,16,76.44,81,30,single,False,3.39,1
+Big Dawgs || Hanumankind & Kalmi,Big Dawgs,Hanumankind & Kalmi,6,0,0.0,0,92.0,92,48,single,True,3.18,1
+Bite Me || ENHYPEN,Bite Me,ENHYPEN,23,0,0.0,0,84.91,89,23,single,False,2.63,6
+Bling-Bang-Bang-Born || Creepy Nuts,Bling-Bang-Bang-Born,Creepy Nuts,43,1,21.0,21,90.42,92,34,single,False,2.8,2
+Blue || V,Blue,V,67,1,54.0,54,84.15,86,10,single,False,2.5,6
+Boat || george,Boat,george,3,0,0.0,0,58.0,58,49,single,False,3.2,1
+Boom Boom Bass || RIIZE,Boom Boom Bass,RIIZE,95,0,0.0,0,65.34,69,12,album,False,2.55,8
+"Boys Like Girls (Feat. Gist, Jayci yucca) || Leellamarz","Boys Like Girls (Feat. Gist, Jayci yucca)",Leellamarz,5,0,0.0,0,26.2,47,33,album,False,2.44,12
+Broken Melodies || NCT DREAM,Broken Melodies,NCT DREAM,12,1,20.0,20,66.58,72,12,single,False,3.77,1
+Bubble Gum (Instrumental) || NewJeans,Bubble Gum (Instrumental),NewJeans,1,0,0.0,0,52.0,52,44,single,False,3.34,4
+Bubble Gum || NewJeans,Bubble Gum,NewJeans,128,1,8.0,8,77.9,81,3,single,False,3.34,4
+Bubble || STAYC,Bubble,STAYC,1,0,0.0,0,58.0,58,47,single,False,2.99,6
+But Daddy I Love Him || Taylor Swift,But Daddy I Love Him,Taylor Swift,2,0,0.0,0,81.0,82,50,album,True,5.67,16
+But Sometimes || BOYNEXTDOOR,But Sometimes,BOYNEXTDOOR,19,0,0.0,0,66.63,70,31,single,False,2.92,6
+CARNIVAL || Kanye West & Ty Dolla $ign,CARNIVAL,Kanye West & Ty Dolla $ign,3,0,0.0,0,85.67,89,22,album,True,4.41,16
+CARNIVAL || ¥$ & Kanye West & Ty Dolla $ign,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,14,1,13.0,13,80.86,97,24,single,True,4.41,1
+CHIHIRO || Billie Eilish,CHIHIRO,Billie Eilish,4,0,0.0,0,83.5,92,46,album,False,5.06,10
+CRAZY || LE SSERAFIM,CRAZY,LE SSERAFIM,83,0,0.0,0,77.2,80,4,single,False,2.74,5
+CROOKED || G-DRAGON,CROOKED,G-DRAGON,7,1,17.0,17,61.71,65,37,album,False,3.75,12
+Camp || Beenzino,Camp,Beenzino,2,0,0.0,0,40.0,43,41,album,True,3.67,18
+Candy (Feat. Zion.T) || Jay Park,Candy (Feat. Zion.T),Jay Park,7,0,0.0,0,61.0,66,31,single,False,3.1,1
+Chasing Lightning || LE SSERAFIM,Chasing Lightning,LE SSERAFIM,1,0,0.0,0,60.0,60,40,single,False,3.42,5
+Chasing That Feeling || TOMORROW X TOGETHER,Chasing That Feeling,TOMORROW X TOGETHER,5,0,0.0,0,45.0,77,37,album,False,3.04,10
+Cheers to youth || SEVENTEEN,Cheers to youth,SEVENTEEN,3,0,0.0,0,63.33,66,31,album,False,3.19,33
+Chemical || Post Malone,Chemical,Post Malone,1,0,0.0,0,91.0,91,49,single,True,3.07,1
+Cherish (My Love) || ILLIT,Cherish (My Love),ILLIT,36,0,0.0,0,66.97,74,8,single,False,2.95,5
+Chill Kill || Red Velvet,Chill Kill,Red Velvet,17,0,0.0,0,72.24,75,28,album,False,3.58,10
+Chk Chk Boom || Stray Kids,Chk Chk Boom,Stray Kids,17,0,0.0,0,64.24,73,28,album,False,2.47,8
+Christmas Love || Jimin,Christmas Love,Jimin,29,1,136.0,136,69.72,71,24,single,False,3.3,1
+Christmas Tree || V,Christmas Tree,V,72,1,9.0,9,83.21,84,16,single,False,3.5,2
+Christmas Without You || Ava Max,Christmas Without You,Ava Max,3,0,0.0,0,85.0,85,48,single,False,2.82,1
+Circles || Post Malone,Circles,Post Malone,2,0,0.0,0,89.0,89,38,album,False,3.59,17
+Citi+ || YANGHONGWON,Citi+,YANGHONGWON,1,0,0.0,0,40.0,40,33,single,False,2.53,1
+Click Like (Prod. Crush) (Feat. Paul Blanco) || Various Artists,Click Like (Prod. Crush) (Feat. Paul Blanco),Various Artists,4,0,0.0,0,56.75,66,41,single,False,2.77,4
+Closer Than This || Jimin,Closer Than This,Jimin,335,0,0.0,0,80.69,93,2,single,False,3.72,1
+Closer to You (feat. Major Lazer) || Jung Kook,Closer to You (feat. Major Lazer),Jung Kook,60,4,35.0,83,82.98,87,10,album,False,2.85,11
+Coca Cola Red (Feat. oygli) || Beenzino,Coca Cola Red (Feat. oygli),Beenzino,5,0,0.0,0,46.0,49,23,album,True,3.34,18
+Combo || RIIZE,Combo,RIIZE,2,0,0.0,0,38.0,42,41,album,False,3.66,9
+Come back to me || RM,Come back to me,RM,6,1,10.0,10,72.5,78,21,single,False,6.48,2
+Cool With You || NewJeans,Cool With You,NewJeans,86,0,0.0,0,86.97,89,4,single,False,2.46,6
+Cosmic || Red Velvet,Cosmic,Red Velvet,25,0,0.0,0,69.8,73,18,single,False,3.76,6
+Crazier || LE SSERAFIM,Crazier,LE SSERAFIM,1,0,0.0,0,61.0,61,47,single,False,2.98,5
+Cream Soda || EXO,Cream Soda,EXO,2,0,0.0,0,75.5,77,43,album,False,3.09,9
+"Crime (Feat. Bek Hyunjin, 250) || Beenzino","Crime (Feat. Bek Hyunjin, 250)",Beenzino,2,0,0.0,0,40.0,43,48,album,True,3.6,18
+Cruel Summer || Taylor Swift,Cruel Summer,Taylor Swift,251,5,36.0,64,97.41,100,22,album,False,2.97,18
+Cupid - Twin Ver. || FIFTY FIFTY,Cupid - Twin Ver.,FIFTY FIFTY,65,1,11.0,11,98.22,99,10,single,False,2.9,3
+Cupid || FIFTY FIFTY,Cupid,FIFTY FIFTY,52,0,0.0,0,87.77,88,15,single,False,2.9,3
+Cupido || Engel Montaz & Kuv507 & Latinnites Music,Cupido,Engel Montaz & Kuv507 & Latinnites Music,4,0,0.0,0,69.0,70,25,single,False,3.58,1
+DASH || NMIXX,DASH,NMIXX,56,0,0.0,0,77.82,80,20,album,False,2.78,7
+DELRESTO (ECHOES) || Travis Scott,DELRESTO (ECHOES),Travis Scott,1,0,0.0,0,0.0,0,39,album,True,4.57,19
+DIE 4 YOU || DEAN,DIE 4 YOU,DEAN,28,0,0.0,0,71.57,76,7,single,False,3.23,1
+DO IT || Kanye West & Ty Dolla $ign,DO IT,Kanye West & Ty Dolla $ign,1,0,0.0,0,78.0,78,47,album,True,3.75,16
+DRIP || BABYMONSTER,DRIP,BABYMONSTER,24,0,0.0,0,76.25,82,12,album,False,3.01,9
+Dance The Night (From Barbie The Album) || Dua Lipa,Dance The Night (From Barbie The Album),Dua Lipa,18,1,47.0,47,95.33,97,41,single,False,2.94,1
+Dancing In The Flames || The Weeknd,Dancing In The Flames,The Weeknd,7,0,0.0,0,82.0,85,15,single,False,3.67,1
+Dangerous || BOYNEXTDOOR,Dangerous,BOYNEXTDOOR,12,0,0.0,0,59.17,66,25,single,False,2.4,1
+Dangerously || Charlie Puth,Dangerously,Charlie Puth,28,1,11.0,11,52.82,65,37,album,False,3.32,14
+Dare to Love (feat. BIG Naughty) || B.I,Dare to Love (feat. BIG Naughty),B.I,8,0,0.0,0,63.75,64,43,album,False,2.93,15
+"Darling, I (feat. Teezo Touchdown) || Tyler, The Creator","Darling, I (feat. Teezo Touchdown)","Tyler, The Creator",2,0,0.0,0,79.0,81,27,album,True,4.23,14
+Deja Vu || TOMORROW X TOGETHER,Deja Vu,TOMORROW X TOGETHER,28,0,0.0,0,82.21,85,21,album,False,2.86,7
+Demon || $ecrecy,Demon,$ecrecy,1,0,0.0,0,38.0,38,34,album,True,2.32,15
+Deseydin Anlardım || EDES,Deseydin Anlardım,EDES,2,0,0.0,0,1.0,1,39,single,False,2.51,1
+Die With A Smile || Lady Gaga & Bruno Mars,Die With A Smile,Lady Gaga & Bruno Mars,103,0,0.0,0,96.81,100,10,single,False,4.19,1
+Discord || QWER,Discord,QWER,5,0,0.0,0,58.4,59,44,single,False,2.8,4
+Ditto (250 Remix) || NewJeans,Ditto (250 Remix),NewJeans,2,0,0.0,0,58.5,61,35,album,False,3.36,12
+Ditto || NewJeans,Ditto,NewJeans,374,7,16.9,28,84.06,90,12,single,False,3.09,1
+Do or Die || Lim Young Woong,Do or Die,Lim Young Woong,390,1,11.0,11,65.71,73,6,single,False,3.42,1
+Don't Look Back In Anger - Remastered || Oasis,Don't Look Back In Anger - Remastered,Oasis,2,0,0.0,0,77.5,78,45,album,False,4.83,40
+Don't Look Back in Anger - Remastered || Oasis,Don't Look Back in Anger - Remastered,Oasis,5,0,0.0,0,73.6,75,31,album,False,4.83,40
+Dopamine - GISELLE Solo || aespa,Dopamine - GISELLE Solo,aespa,1,0,0.0,0,63.0,63,49,single,False,3.23,4
+Dope As (Interlude) || Beenzino,Dope As (Interlude),Beenzino,2,0,0.0,0,41.5,44,37,album,True,1.12,18
+Down Bad || Taylor Swift,Down Bad,Taylor Swift,5,0,0.0,0,83.6,85,33,album,True,4.35,16
+Drama || aespa,Drama,aespa,224,3,36.7,88,84.23,88,14,album,False,3.58,7
+Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack] || Jung Kook & BTS,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,161,1,21.0,21,84.79,88,10,single,False,3.36,1
+Drowning || WOODZ,Drowning,WOODZ,7,0,0.0,0,60.29,61,49,single,False,4.08,7
+EASY || LE SSERAFIM,EASY,LE SSERAFIM,141,1,35.0,35,84.31,89,3,single,False,2.74,5
+ENGLAND || YANGHONGWON,ENGLAND,YANGHONGWON,4,0,0.0,0,42.0,46,22,album,False,2.57,8
+ETA || NewJeans,ETA,NewJeans,340,5,22.6,77,83.4,89,3,single,False,2.52,6
+"Earth, Wind & Fire || BOYNEXTDOOR","Earth, Wind & Fire",BOYNEXTDOOR,25,0,0.0,0,70.52,75,21,album,False,2.98,7
+Either Way || IVE,Either Way,IVE,38,0,0.0,0,76.87,79,10,single,False,2.78,1
+Elevator || Lim Young Woong,Elevator,Lim Young Woong,6,1,16.0,16,55.33,56,48,single,False,3.46,2
+Espresso || Sabrina Carpenter,Espresso,Sabrina Carpenter,176,0,0.0,0,96.45,100,11,single,True,2.92,1
+"Eve, Psyche & The Bluebeard’s wife || LE SSERAFIM","Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,131,0,0.0,0,84.03,87,9,album,False,3.09,13
+Even for a moment || Sung Si Kyung & Naul,Even for a moment,Sung Si Kyung & Naul,1,0,0.0,0,0.0,0,36,single,False,4.89,1
+Event Horizon || Younha,Event Horizon,Younha,1,0,0.0,0,64.0,64,50,album,False,5.01,14
+Every Moment With You || JAESSBEE,Every Moment With You,JAESSBEE,8,0,0.0,0,46.0,50,20,single,False,2.87,1
+FE!N (feat. Playboi Carti) || Travis Scott,FE!N (feat. Playboi Carti),Travis Scott,3,0,0.0,0,90.0,91,42,album,True,3.2,19
+FE!N || Travis Scott,FE!N,Travis Scott,3,0,0.0,0,57.0,87,26,album,True,3.2,19
+FIELD TRIP || ¥$ & Kanye West & Ty Dolla $ign,FIELD TRIP,¥$ & Kanye West & Ty Dolla $ign,9,1,14.0,14,68.89,81,19,album,True,2.79,16
+FLOWER || JISOO,FLOWER,JISOO,44,1,23.0,23,85.27,86,17,single,False,2.89,2
+FOREVER || BABYMONSTER,FOREVER,BABYMONSTER,7,0,0.0,0,58.29,60,43,single,False,3.55,1
+FRI(END)S (Instrumental) || V,FRI(END)S (Instrumental),V,8,0,0.0,0,72.38,75,24,single,False,2.47,4
+FRI(END)S (Slowed Down) || V,FRI(END)S (Slowed Down),V,8,0,0.0,0,71.62,75,28,single,False,2.7,4
+FRI(END)S (Sped Up) || V,FRI(END)S (Sped Up),V,8,0,0.0,0,71.88,75,26,single,False,2.05,4
+FRI(END)S || V,FRI(END)S,V,120,0,0.0,0,89.83,93,9,single,False,2.47,4
+FRIED || ¥$ & Kanye West & Ty Dolla $ign,FRIED,¥$ & Kanye West & Ty Dolla $ign,3,0,0.0,0,47.33,73,38,album,True,2.99,16
+FUK SUMN || Kanye West & Ty Dolla $ign,FUK SUMN,Kanye West & Ty Dolla $ign,1,0,0.0,0,80.0,80,31,album,True,3.49,16
+Face-off || Jimin,Face-off,Jimin,406,1,13.0,13,78.76,83,5,single,True,3.83,6
+Fact Check || NCT 127,Fact Check,NCT 127,9,0,0.0,0,60.78,75,23,album,False,3.08,9
+Falling || Jin,Falling,Jin,11,0,0.0,0,60.18,74,24,single,False,2.98,6
+Fast Forward || JEON SOMI,Fast Forward,JEON SOMI,76,0,0.0,0,73.18,75,10,single,False,2.68,5
+Fate || (G)I-DLE,Fate,(G)I-DLE,98,0,0.0,0,72.44,76,9,album,False,2.69,8
+Father || Lim Young Woong,Father,Lim Young Woong,106,1,10.0,10,58.72,60,28,album,False,3.97,12
+Fighting (Feat. Lee Young Ji) || BSS,Fighting (Feat. Lee Young Ji),BSS,18,0,0.0,0,78.0,78,43,single,False,3.41,3
+Filter || BTS,Filter,BTS,7,1,288.0,288,74.43,76,31,album,False,3.0,20
+"Flights, Not Feelings || aespa","Flights, Not Feelings",aespa,2,0,0.0,0,53.0,55,35,single,False,3.03,6
+Flooded The Face || Lil Uzi Vert,Flooded The Face,Lil Uzi Vert,1,0,0.0,0,79.0,79,48,album,True,3.21,26
+Flowers || aespa,Flowers,aespa,1,0,0.0,0,51.0,51,38,single,False,3.18,6
+For Us || V,For Us,V,71,1,52.0,52,84.28,86,10,single,False,2.85,6
+Fortnight (feat. Post Malone) || Taylor Swift,Fortnight (feat. Post Malone),Taylor Swift,43,0,0.0,0,93.98,96,9,album,False,3.82,16
+Fry’s Dream || AKMU,Fry’s Dream,AKMU,53,1,11.0,11,62.19,66,18,single,False,3.41,2
+G.O.A.T || TAEMIN,G.O.A.T,TAEMIN,1,0,0.0,0,52.0,52,44,single,False,2.98,7
+GOD'S COUNTRY || Travis Scott,GOD'S COUNTRY,Travis Scott,1,0,0.0,0,0.0,0,43,album,True,2.13,19
+GODS || League of Legends & NewJeans,GODS,League of Legends & NewJeans,111,0,0.0,0,85.73,88,4,single,False,3.68,1
+GOSLOW || YANGHONGWON,GOSLOW,YANGHONGWON,3,0,0.0,0,40.33,44,29,album,False,2.85,8
+Get A Guitar || RIIZE,Get A Guitar,RIIZE,189,3,12.3,20,69.56,79,13,single,False,2.67,2
+Get The Hell Out || DAY6,Get The Hell Out,DAY6,1,0,0.0,0,52.0,52,46,album,False,2.77,7
+Get Up || NewJeans,Get Up,NewJeans,38,0,0.0,0,85.63,87,8,single,False,0.6,6
+Girls Never Die || tripleS,Girls Never Die,tripleS,46,0,0.0,0,68.46,71,14,album,False,3.13,10
+God of Music || SEVENTEEN,God of Music,SEVENTEEN,11,0,0.0,0,64.09,81,18,album,False,3.42,8
+Gonna Be A Rock || BOYNEXTDOOR,Gonna Be A Rock,BOYNEXTDOOR,1,0,0.0,0,55.0,55,48,album,False,3.29,7
+Good Bones || LE SSERAFIM,Good Bones,LE SSERAFIM,2,0,0.0,0,66.5,69,39,single,False,2.67,5
+Grain of Sand || Lim Young Woong,Grain of Sand,Lim Young Woong,516,1,12.0,12,65.16,72,7,single,False,3.67,1
+Guess featuring Billie Eilish || Charli xcx & Billie Eilish,Guess featuring Billie Eilish,Charli xcx & Billie Eilish,8,0,0.0,0,88.38,91,35,single,False,2.39,1
+Gym || Beenzino,Gym,Beenzino,2,0,0.0,0,39.0,42,46,album,True,3.42,18
+HAPPY || DAY6,HAPPY,DAY6,92,1,161.0,161,62.23,64,4,album,False,3.17,7
+HARD || SHINee,HARD,SHINee,4,0,0.0,0,66.5,69,39,album,False,2.95,10
+HELIOT EMIL || CHANGMO,HELIOT EMIL,CHANGMO,1,0,0.0,0,45.0,45,50,single,False,2.3,5
+HERO || Lim Young Woong,HERO,Lim Young Woong,111,0,0.0,0,58.52,60,26,single,False,3.61,2
+HEYA || IVE,HEYA,IVE,61,0,0.0,0,61.72,66,9,single,False,3.16,6
+HOME SWEET HOME (feat. TAEYANG & DAESUNG) || G-DRAGON & TAEYANG & DAESUNG,HOME SWEET HOME (feat. TAEYANG & DAESUNG),G-DRAGON & TAEYANG & DAESUNG,4,0,0.0,0,63.75,69,2,single,False,3.52,1
+HYAENA || Travis Scott,HYAENA,Travis Scott,2,0,0.0,0,42.5,85,12,album,True,3.7,19
+Haegeum || Agust D,Haegeum,Agust D,149,0,0.0,0,86.88,91,25,album,False,2.82,10
+Hate You || Jung Kook,Hate You,Jung Kook,139,0,0.0,0,83.42,88,8,album,False,2.57,11
+Heart on the Window (with WENDY) || Jin,Heart on the Window (with WENDY),Jin,11,0,0.0,0,61.45,75,21,single,False,2.95,6
+Heavy Is the Crown || Linkin Park,Heavy Is the Crown,Linkin Park,1,0,0.0,0,78.0,78,46,single,False,2.78,2
+Hell yea || Leellamarz & YANGHONGWON,Hell yea,Leellamarz & YANGHONGWON,1,0,0.0,0,38.0,38,47,single,False,3.23,5
+Here With Me || d4vd,Here With Me,d4vd,50,0,0.0,0,78.96,84,30,single,False,4.04,1
+High Note || KingLee & Code G,High Note,KingLee & Code G,2,0,0.0,0,65.0,66,9,single,True,4.02,1
+Holssi || IU,Holssi,IU,31,0,0.0,0,67.87,71,11,single,False,3.18,5
+Home || Lim Young Woong,Home,Lim Young Woong,191,0,0.0,0,62.63,66,12,single,False,3.92,2
+Honestly || RIIZE,Honestly,RIIZE,1,0,0.0,0,51.0,51,50,single,False,3.23,5
+Horizon || TAEMIN,Horizon,TAEMIN,2,0,0.0,0,53.5,55,32,single,False,2.95,7
+How Sweet (Instrumental) || NewJeans,How Sweet (Instrumental),NewJeans,5,0,0.0,0,60.8,63,13,single,False,3.65,4
+How Sweet || NewJeans,How Sweet,NewJeans,184,0,0.0,0,81.02,85,1,single,False,3.65,4
+"How can I love the heartbreak, you're the one I love || AKMU","How can I love the heartbreak, you're the one I love",AKMU,33,0,0.0,0,61.21,62,34,album,False,4.83,10
+Hype Boy || NewJeans,Hype Boy,NewJeans,321,6,27.2,50,82.57,88,15,single,False,2.98,4
+I AM || IVE,I AM,IVE,159,0,0.0,0,86.42,89,2,album,False,3.06,11
+I Don’t Think That I Like Her || Charlie Puth,I Don’t Think That I Like Her,Charlie Puth,8,1,18.0,18,73.0,74,46,album,False,3.14,12
+I Had Some Help (Feat. Morgan Wallen) || Post Malone & Morgan Wallen,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,9,0,0.0,0,89.44,95,31,single,True,2.97,1
+I Like Me Better || Lauv,I Like Me Better,Lauv,2,0,0.0,0,84.0,84,36,album,False,3.29,17
+I Love You || Lim Young Woong,I Love You,Lim Young Woong,150,2,62.0,103,58.64,61,24,album,False,3.98,12
+I stan U || IU,I stan U,IU,4,0,0.0,0,55.0,55,25,single,False,3.21,5
+I will come to you || Jin,I will come to you,Jin,10,0,0.0,0,61.0,74,25,single,False,2.62,6
+I'll Be There || Jin,I'll Be There,Jin,25,0,0.0,0,86.4,89,6,single,False,3.03,1
+ISTJ || NCT DREAM,ISTJ,NCT DREAM,7,0,0.0,0,66.14,70,24,album,False,3.09,10
+ITEM || Stray Kids,ITEM,Stray Kids,1,0,0.0,0,69.0,69,40,album,False,3.19,12
+If I have you only (My love X Nerd Connection) || Nerd Connection,If I have you only (My love X Nerd Connection),Nerd Connection,56,1,129.0,129,53.64,55,31,single,False,4.18,2
+"If I’m S, Can You Be My N? || TWS","If I’m S, Can You Be My N?",TWS,21,0,0.0,0,67.19,70,32,single,False,2.8,6
+If We Ever Meet Again || Lim Young Woong,If We Ever Meet Again,Lim Young Woong,504,0,0.0,0,60.14,65,12,album,False,4.57,12
+Igloo || KISS OF LIFE,Igloo,KISS OF LIFE,33,0,0.0,0,76.76,81,14,single,False,2.2,7
+Impossible || RIIZE,Impossible,RIIZE,40,1,24.0,24,64.22,70,11,single,False,3.04,2
+In Bed/Makgulli || Beenzino,In Bed/Makgulli,Beenzino,4,0,0.0,0,45.75,50,20,album,True,4.62,18
+In Bloom || ZEROBASEONE,In Bloom,ZEROBASEONE,6,0,0.0,0,75.67,79,39,single,False,3.02,6
+Interlude : Dive || Jimin,Interlude : Dive,Jimin,365,0,0.0,0,77.11,86,7,single,False,2.18,6
+Interlude : Showtime || Jimin,Interlude : Showtime,Jimin,129,0,0.0,0,73.43,78,8,album,False,1.31,7
+Intro: Singularity || BTS,Intro: Singularity,BTS,6,0,0.0,0,71.0,72,45,album,False,3.28,11
+It's Beginning to Look a Lot like Christmas || Michael Bublé,It's Beginning to Look a Lot like Christmas,Michael Bublé,4,0,0.0,0,87.0,87,27,album,False,3.45,21
+It's the Most Wonderful Time of the Year || Andy Williams,It's the Most Wonderful Time of the Year,Andy Williams,2,0,0.0,0,79.0,79,49,album,False,2.52,12
+I’ll Be There || Jin,I’ll Be There,Jin,7,0,0.0,0,60.29,66,7,album,False,3.03,10
+I’ll See You There Tomorrow || TOMORROW X TOGETHER,I’ll See You There Tomorrow,TOMORROW X TOGETHER,7,0,0.0,0,77.71,78,40,album,False,3.28,7
+JEALOUSYVALHALLA || YANGHONGWON,JEALOUSYVALHALLA,YANGHONGWON,6,0,0.0,0,44.33,47,14,album,False,2.47,8
+Jealousyvalhalla || YANGHONGWON,Jealousyvalhalla,YANGHONGWON,5,0,0.0,0,35.4,48,16,single,False,2.47,1
+Jeogeumtong || E SENS,Jeogeumtong,E SENS,1,0,0.0,0,38.0,38,39,album,False,2.31,13
+Jingle Bell Rock || Bobby Helms,Jingle Bell Rock,Bobby Helms,3,0,0.0,0,94.0,94,32,single,False,2.18,2
+K-POP || Travis Scott & Bad Bunny & The Weeknd,K-POP,Travis Scott & Bad Bunny & The Weeknd,6,0,0.0,0,73.83,92,39,single,True,3.09,1
+KEYS TO MY LIFE || Kanye West & Ty Dolla $ign,KEYS TO MY LIFE,Kanye West & Ty Dolla $ign,1,0,0.0,0,79.0,79,24,album,True,2.9,16
+KIDDING || ISEGYE IDOL,KIDDING,ISEGYE IDOL,3,0,0.0,0,35.0,42,45,single,False,3.5,2
+Kill Bill || SZA,Kill Bill,SZA,43,0,0.0,0,94.0,94,40,album,False,2.57,23
+Kill It || aespa,Kill It,aespa,4,0,0.0,0,55.0,64,21,single,False,3.33,6
+Kitsch || IVE,Kitsch,IVE,92,0,0.0,0,79.38,80,9,album,False,3.26,11
+Klaxon || (G)I-DLE,Klaxon,(G)I-DLE,22,0,0.0,0,74.27,75,36,single,False,2.92,4
+LALALALA || Stray Kids,LALALALA,Stray Kids,5,0,0.0,0,63.2,82,38,album,False,3.04,8
+LALALI || SEVENTEEN,LALALI,SEVENTEEN,1,0,0.0,0,61.0,61,44,album,False,2.86,33
+LOCKDOWN || ISEGYE IDOL,LOCKDOWN,ISEGYE IDOL,4,0,0.0,0,44.25,47,40,single,False,3.37,2
+LOST! || RM,LOST!,RM,7,0,0.0,0,80.0,83,35,album,True,3.88,11
+LOVE DIVE || IVE,LOVE DIVE,IVE,6,1,21.0,21,83.0,83,48,single,False,2.95,2
+"LOVE, MONEY, FAME (feat. DJ Khaled) || SEVENTEEN","LOVE, MONEY, FAME (feat. DJ Khaled)",SEVENTEEN,15,0,0.0,0,74.73,79,13,single,False,3.11,6
+LUNCH || Billie Eilish,LUNCH,Billie Eilish,29,0,0.0,0,92.21,96,12,album,False,2.99,10
+Last Christmas - Single Version || Wham!,Last Christmas - Single Version,Wham!,8,0,0.0,0,89.0,89,13,album,False,4.43,16
+Left and Right (Feat. Jung Kook of BTS) || Charlie Puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,226,4,64.2,189,83.83,88,6,album,False,2.57,12
+Lemon || Beenzino,Lemon,Beenzino,3,0,0.0,0,43.0,45,27,album,True,3.03,18
+Let It Snow! Let It Snow! Let It Snow! || Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,3,0,0.0,0,95.0,95,30,album,False,1.95,12
+Let Me In || EXO,Let Me In,EXO,1,0,0.0,0,72.0,72,50,single,False,3.29,1
+Let off steam || Leellamarz & YANGHONGWON,Let off steam,Leellamarz & YANGHONGWON,2,0,0.0,0,41.0,44,47,single,False,3.66,5
+Let's Say Goodbye || Parc Jae Jung,Let's Say Goodbye,Parc Jae Jung,78,0,0.0,0,53.94,55,30,album,False,4.06,10
+Letter To Myself || TAEYEON,Letter To Myself,TAEYEON,4,0,0.0,0,59.0,63,22,single,False,3.07,6
+Licorice || aespa,Licorice,aespa,3,0,0.0,0,59.67,62,30,album,False,2.65,10
+Lie || BTS,Lie,BTS,1,0,0.0,0,70.0,70,33,album,False,3.6,15
+Like A Fool (Feat. Y2K92) || Beenzino,Like A Fool (Feat. Y2K92),Beenzino,4,0,0.0,0,43.75,48,28,album,True,3.37,18
+Like Crazy (Deep House Remix) || Jimin,Like Crazy (Deep House Remix),Jimin,28,1,8.0,8,71.46,74,33,single,False,3.01,5
+Like Crazy (English Version) || Jimin,Like Crazy (English Version),Jimin,429,0,0.0,0,82.19,90,2,single,False,3.54,6
+Like Crazy (Instrumental) || Jimin,Like Crazy (Instrumental),Jimin,6,0,0.0,0,68.0,68,41,single,False,3.54,5
+Like Crazy (UK Garage Remix) || Jimin,Like Crazy (UK Garage Remix),Jimin,25,1,8.0,8,71.28,73,35,single,False,3.51,5
+Like Crazy || Jimin,Like Crazy,Jimin,554,0,0.0,0,89.22,96,1,single,False,3.54,6
+Like That || Future & Metro Boomin,Like That,Future & Metro Boomin,4,0,0.0,0,90.0,92,45,album,True,4.46,17
+Lilith (feat. SUGA of BTS) (Diablo IV Anthem) || Halsey & SUGA,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,80,1,11.0,11,83.34,87,17,single,True,3.02,1
+Little Light || DOYOUNG,Little Light,DOYOUNG,8,0,0.0,0,66.62,71,29,album,False,3.75,10
+Live My Life || aespa,Live My Life,aespa,2,0,0.0,0,57.5,61,35,album,False,2.65,10
+London Boy || Lim Young Woong,London Boy,Lim Young Woong,521,1,18.0,18,64.21,71,5,single,False,4.08,2
+Lose My Breath (Feat. Charlie Puth) || Stray Kids & Charlie Puth,Lose My Breath (Feat. Charlie Puth),Stray Kids & Charlie Puth,1,0,0.0,0,71.0,71,29,single,False,2.78,2
+Lose My Breath || Stray Kids,Lose My Breath,Stray Kids,1,0,0.0,0,54.0,54,39,single,False,2.78,2
+Lost and Found || KingLee & Lil' Flip,Lost and Found,KingLee & Lil' Flip,3,1,19.0,19,59.33,66,8,single,True,3.65,1
+Love 119 || RIIZE,Love 119,RIIZE,108,0,0.0,0,70.41,73,8,single,False,2.89,1
+Love Always Run Away || Lim Young Woong,Love Always Run Away,Lim Young Woong,134,3,40.0,57,59.54,61,28,single,False,4.05,2
+Love Lee || AKMU,Love Lee,AKMU,82,0,0.0,0,75.09,81,8,single,False,2.99,2
+Love Letter || Lim Young Woong,Love Letter,Lim Young Woong,75,0,0.0,0,58.36,60,32,album,False,3.58,12
+Love Me Again || V,Love Me Again,V,469,0,0.0,0,88.53,95,3,single,False,3.04,2
+Love Me Like This || NMIXX,Love Me Like This,NMIXX,18,0,0.0,0,77.17,80,37,single,False,3.15,6
+Love Station || Lim Young Woong,Love Station,Lim Young Woong,5,1,12.0,12,56.0,57,49,album,False,3.19,12
+Love You With All My Heart || Crush,Love You With All My Heart,Crush,34,0,0.0,0,77.56,80,19,single,False,4.07,2
+Love wins all || IU,Love wins all,IU,85,0,0.0,0,80.51,84,6,single,False,4.52,1
+Lovely Touch || Lim Young Woong,Lovely Touch,Lim Young Woong,119,3,52.0,138,58.57,61,25,album,False,3.25,12
+Lovin On Me || Jack Harlow,Lovin On Me,Jack Harlow,15,0,0.0,0,99.0,99,39,single,True,2.31,1
+Loving You || Lim Young Woong,Loving You,Lim Young Woong,8,1,12.0,12,56.38,57,46,album,False,3.54,12
+Lucky Girl Syndrome || ILLIT,Lucky Girl Syndrome,ILLIT,57,1,17.0,17,75.72,78,21,single,False,2.33,4
+MAESTRO || SEVENTEEN,MAESTRO,SEVENTEEN,13,0,0.0,0,76.69,82,14,album,False,3.32,33
+MANIAC || VIVIZ,MANIAC,VIVIZ,13,1,11.0,11,81.62,83,40,single,False,3.26,5
+MELTDOWN || Travis Scott,MELTDOWN,Travis Scott,2,0,0.0,0,42.0,84,34,album,True,4.1,19
+MEOW || MEOVV,MEOW,MEOVV,48,0,0.0,0,69.83,76,8,single,False,2.87,1
+MILLION DOLLAR BABY || Tommy Richman,MILLION DOLLAR BABY,Tommy Richman,118,0,0.0,0,90.78,99,12,single,False,2.59,2
+MODERN JAM || Travis Scott,MODERN JAM,Travis Scott,2,0,0.0,0,41.5,83,23,album,True,4.26,19
+MY EYES || Travis Scott,MY EYES,Travis Scott,2,0,0.0,0,41.5,83,33,album,True,4.19,19
+Magnetic || ILLIT,Magnetic,ILLIT,244,0,0.0,0,87.41,94,1,single,False,2.68,4
+Mantra || JENNIE,Mantra,JENNIE,46,0,0.0,0,87.15,89,2,single,True,2.28,1
+Mars || D.O.,Mars,D.O.,2,0,0.0,0,67.5,70,47,single,False,3.12,6
+Melt Away || TAEYEON,Melt Away,TAEYEON,1,0,0.0,0,55.0,55,50,single,False,3.27,6
+Melt Down || DAY6,Melt Down,DAY6,66,0,0.0,0,63.08,65,11,album,False,2.76,8
+Memories || RIIZE,Memories,RIIZE,43,0,0.0,0,73.3,76,24,single,False,2.97,1
+Midas Touch || KISS OF LIFE,Midas Touch,KISS OF LIFE,78,1,8.0,8,79.5,82,9,single,False,2.71,2
+Midnight Fiction || ILLIT,Midnight Fiction,ILLIT,17,0,0.0,0,73.35,76,24,single,False,2.8,4
+Mine || aespa,Mine,aespa,2,0,0.0,0,59.5,63,29,album,False,3.22,10
+Mistletoe || Justin Bieber,Mistletoe,Justin Bieber,3,0,0.0,0,92.0,92,35,album,False,3.05,15
+Monet || Beenzino,Monet,Beenzino,8,0,0.0,0,49.25,53,17,album,True,2.64,18
+Monster || DAY6,Monster,DAY6,3,0,0.0,0,51.67,55,30,album,False,3.61,8
+Moonlit Floor (Kiss Me) || LISA,Moonlit Floor (Kiss Me),LISA,9,0,0.0,0,89.22,90,24,single,False,2.6,1
+Moonlit Floor || LISA,Moonlit Floor,LISA,8,0,0.0,0,87.5,89,21,single,False,2.6,1
+Mourning || Post Malone,Mourning,Post Malone,3,0,0.0,0,75.67,78,23,single,True,2.46,1
+My Boy Only Breaks His Favorite Toys || Taylor Swift,My Boy Only Breaks His Favorite Toys,Taylor Swift,2,0,0.0,0,81.5,82,37,album,False,3.4,16
+My Love Mine All Mine || Mitski,My Love Mine All Mine,Mitski,81,0,0.0,0,98.0,99,31,album,False,2.3,11
+My Name is Malguem || QWER,My Name is Malguem,QWER,64,0,0.0,0,58.62,61,8,single,False,3.14,8
+My Starry Love || Lim Young Woong,My Starry Love,Lim Young Woong,30,2,14.5,21,57.07,58,38,single,False,3.85,2
+My World || ILLIT,My World,ILLIT,15,0,0.0,0,72.07,75,29,single,False,1.79,4
+My You || Jung Kook,My You,Jung Kook,30,1,50.0,50,84.6,88,16,single,False,2.75,1
+NEMONEMO || YENA,NEMONEMO,YENA,24,0,0.0,0,66.67,69,31,single,False,2.97,3
+NEURON (with Gaeko & YOON MIRAE) || j-hope,NEURON (with Gaeko & YOON MIRAE),j-hope,6,0,0.0,0,78.67,82,34,single,False,4.55,6
+NIGHT DANCER - BIG Naughty Remix || imase & BIG Naughty,NIGHT DANCER - BIG Naughty Remix,imase & BIG Naughty,10,1,11.0,11,57.5,61,37,single,False,3.51,2
+NIGHT DANCER || imase,NIGHT DANCER,imase,48,0,0.0,0,76.88,79,12,album,False,3.51,7
+Nest || Lim Young Woong,Nest,Lim Young Woong,36,2,9.5,11,57.83,59,37,album,False,2.87,12
+Neva Play (feat. RM of BTS) || Megan Thee Stallion & RM,Neva Play (feat. RM of BTS),Megan Thee Stallion & RM,15,0,0.0,0,83.13,87,19,single,True,2.62,1
+Never Let Go || Jung Kook,Never Let Go,Jung Kook,88,0,0.0,0,86.69,90,9,single,False,2.78,1
+New Jeans || NewJeans,New Jeans,NewJeans,281,5,32.4,63,81.68,89,3,single,False,1.82,2
+New Woman (feat. ROSALÍA) || LISA & ROSALÍA,New Woman (feat. ROSALÍA),LISA & ROSALÍA,29,0,0.0,0,86.45,92,16,single,False,3.0,1
+Nice Guy || BOYNEXTDOOR,Nice Guy,BOYNEXTDOOR,20,0,0.0,0,66.3,70,19,album,False,2.75,7
+No Boss (Feat. Dok2) || E SENS,No Boss (Feat. Dok2),E SENS,1,0,0.0,0,38.0,38,32,album,False,3.13,13
+No Tomorrow - Spotify Singles || Various Artists,No Tomorrow - Spotify Singles,Various Artists,3,0,0.0,0,41.0,48,46,single,False,5.13,1
+"Noid || Tyler, The Creator",Noid,"Tyler, The Creator",2,0,0.0,0,81.0,82,36,single,True,4.74,1
+Not Like Us || Kendrick Lamar,Not Like Us,Kendrick Lamar,53,2,14.5,21,95.92,98,24,single,True,4.57,1
+OMG (FRNK Remix) || NewJeans,OMG (FRNK Remix),NewJeans,2,0,0.0,0,56.5,59,43,album,False,3.51,12
+OMG || NewJeans,OMG,NewJeans,317,6,31.0,55,86.28,93,10,single,False,3.54,2
+Off The Record || IVE,Off The Record,IVE,28,0,0.0,0,73.07,79,19,single,False,3.15,1
+On the street (Feat. ASH ISLAND) || Leellamarz,On the street (Feat. ASH ISLAND),Leellamarz,1,0,0.0,0,36.0,36,49,single,False,3.49,1
+One Kiss || RIIZE,One Kiss,RIIZE,1,0,0.0,0,50.0,50,47,single,False,3.53,5
+"Our Blues, Our Life || Lim Young Woong","Our Blues, Our Life",Lim Young Woong,362,3,14.0,20,59.04,63,16,album,False,3.46,12
+Overdrive || Post Malone,Overdrive,Post Malone,1,0,0.0,0,76.0,76,47,single,False,2.46,1
+PAID || Kanye West & Ty Dolla $ign,PAID,Kanye West & Ty Dolla $ign,1,0,0.0,0,79.0,79,27,album,True,3.25,16
+PALISADE || YANGHONGWON,PALISADE,YANGHONGWON,2,0,0.0,0,37.0,39,42,album,False,1.47,8
+PARANOIA || HEARTSTEEL & League of Legends & BAEKHYUN,PARANOIA,HEARTSTEEL & League of Legends & BAEKHYUN,3,0,0.0,0,80.67,83,37,single,False,3.31,1
+POWER || G-DRAGON,POWER,G-DRAGON,26,0,0.0,0,71.81,74,3,single,False,2.39,1
+PROMOTION || ¥$ & Kanye West & Ty Dolla $ign,PROMOTION,¥$ & Kanye West & Ty Dolla $ign,3,0,0.0,0,47.0,72,33,album,True,2.65,16
+Paint The Town Red || Doja Cat,Paint The Town Red,Doja Cat,65,0,0.0,0,87.83,100,13,single,True,3.86,1
+People Pt.2 (feat. IU) || Agust D,People Pt.2 (feat. IU),Agust D,144,1,25.0,25,76.61,82,14,album,False,3.57,10
+Perfect Night || LE SSERAFIM,Perfect Night,LE SSERAFIM,278,1,51.0,51,85.61,91,9,single,False,2.65,1
+Pierrot || LE SSERAFIM,Pierrot,LE SSERAFIM,4,0,0.0,0,68.25,71,21,single,False,2.84,5
+Pink Hoodie || aespa,Pink Hoodie,aespa,1,0,0.0,0,50.0,50,50,single,False,2.44,6
+Please Don't Change (feat. DJ Snake) || Jung Kook,Please Don't Change (feat. DJ Snake),Jung Kook,102,1,8.0,8,83.86,87,9,album,False,2.44,11
+Please Please Please || Sabrina Carpenter,Please Please Please,Sabrina Carpenter,56,3,9.7,13,94.75,99,16,single,True,3.11,2
+Pleasure Shop || KEY,Pleasure Shop,KEY,4,0,0.0,0,52.25,57,40,single,False,3.04,6
+Polaroid || Lim Young Woong,Polaroid,Lim Young Woong,509,0,0.0,0,62.12,68,10,single,False,3.44,2
+Popcorn || D.O.,Popcorn,D.O.,1,0,0.0,0,65.0,65,36,single,False,3.02,1
+Popular (with Playboi Carti & Madonna) || The Weeknd & Playboi Carti & Madonna,Popular (with Playboi Carti & Madonna),The Weeknd & Playboi Carti & Madonna,1,0,0.0,0,75.0,75,42,single,True,3.59,1
+Promise || Jimin,Promise,Jimin,35,1,8.0,8,77.09,78,31,single,False,2.52,1
+Pump Up The Volume! || PLAVE,Pump Up The Volume!,PLAVE,40,1,33.0,33,63.88,67,13,single,False,2.99,1
+Push Ups || Drake,Push Ups,Drake,1,0,0.0,0,84.0,84,36,single,True,3.88,1
+Queencard || (G)I-DLE,Queencard,(G)I-DLE,119,1,13.0,13,87.71,90,4,single,False,2.69,6
+ROLEX || YANGHONGWON,ROLEX,YANGHONGWON,2,0,0.0,0,42.0,44,27,single,False,2.97,1
+Radio || Beenzino,Radio,Beenzino,2,0,0.0,0,39.0,42,45,album,True,3.52,18
+"Rah Tah Tah || Tyler, The Creator",Rah Tah Tah,"Tyler, The Creator",1,0,0.0,0,81.0,81,50,album,True,2.76,14
+Rainbow || Lim Young Woong,Rainbow,Lim Young Woong,405,1,13.0,13,58.92,63,14,album,False,3.27,12
+Rainy Days || V,Rainy Days,V,206,2,9.0,10,85.48,93,4,single,False,2.99,2
+Rebirth (Intro) || Jimin,Rebirth (Intro),Jimin,129,0,0.0,0,75.0,79,7,album,False,2.41,7
+Right Now (Instrumental) || NewJeans,Right Now (Instrumental),NewJeans,2,0,0.0,0,23.0,46,46,single,False,2.67,4
+Right Now || NewJeans,Right Now,NewJeans,57,0,0.0,0,74.07,78,4,single,False,2.67,4
+Rockin' Around The Christmas Tree || Brenda Lee,Rockin' Around The Christmas Tree,Brenda Lee,4,0,0.0,0,98.0,98,21,album,False,2.1,12
+Rockstar || LISA,Rockstar,LISA,19,0,0.0,0,88.0,92,31,single,True,2.3,5
+Roller Coaster || NMIXX,Roller Coaster,NMIXX,15,0,0.0,0,74.6,77,35,single,False,2.99,1
+Rumble || KingLee,Rumble,KingLee,1,0,0.0,0,51.0,51,29,single,True,2.91,1
+Runaway || Kanye West,Runaway,Kanye West,11,0,0.0,0,81.0,81,27,album,True,9.13,13
+Running Wild || Jin,Running Wild,Jin,11,0,0.0,0,74.91,84,2,single,False,2.53,6
+S-Class || Stray Kids,S-Class,Stray Kids,31,0,0.0,0,84.87,89,16,album,False,3.26,12
+SAHARA || YANGHONGWON,SAHARA,YANGHONGWON,2,0,0.0,0,38.5,41,33,album,False,3.06,8
+SHEESH || BABYMONSTER,SHEESH,BABYMONSTER,91,0,0.0,0,85.26,88,9,single,False,2.84,7
+SIRENS || Travis Scott,SIRENS,Travis Scott,1,0,0.0,0,0.0,0,42,album,True,3.41,19
+SLIDE || ¥$ & Kanye West & Ty Dolla $ign,SLIDE,¥$ & Kanye West & Ty Dolla $ign,3,0,0.0,0,47.0,72,22,album,True,3.3,16
+SOS (Prod. Marshmello) || SEVENTEEN,SOS (Prod. Marshmello),SEVENTEEN,2,0,0.0,0,0.0,0,49,album,False,3.2,8
+SOS || KANGDANIEL,SOS,KANGDANIEL,49,1,8.0,8,73.41,76,24,single,False,3.2,5
+SPOT! || ZICO,SPOT!,ZICO,3,0,0.0,0,73.33,77,2,single,False,2.8,1
+SPOT! || ZICO & JENNIE,SPOT!,ZICO & JENNIE,87,1,88.0,88,83.83,87,2,single,False,2.8,1
+STARS || Kanye West & Ty Dolla $ign,STARS,Kanye West & Ty Dolla $ign,2,0,0.0,0,82.5,84,18,album,True,1.92,16
+STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) || MAX,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),MAX,31,2,16.0,16,73.32,76,28,album,False,2.89,12
+Salty & Sweet || aespa,Salty & Sweet,aespa,1,0,0.0,0,74.0,74,46,single,False,3.36,6
+Sandman || Beenzino,Sandman,Beenzino,3,0,0.0,0,42.0,44,38,album,True,2.93,18
+Santa Tell Me || Ariana Grande,Santa Tell Me,Ariana Grande,11,0,0.0,0,95.91,96,11,single,False,3.4,1
+Saturn || SZA,Saturn,SZA,10,0,0.0,0,89.9,91,43,single,False,3.1,5
+Say Less || TAEMIN,Say Less,TAEMIN,1,0,0.0,0,51.0,51,48,single,False,2.59,7
+Scenery || V,Scenery,V,12,0,0.0,0,67.42,77,23,single,False,4.9,1
+See that? || NMIXX,See that?,NMIXX,24,0,0.0,0,64.62,70,21,single,False,3.05,6
+Serendipity - Full Length Edition || BTS,Serendipity - Full Length Edition,BTS,1,0,0.0,0,72.0,72,35,album,False,4.61,26
+Set Me Free Pt.2 || Jimin,Set Me Free Pt.2,Jimin,429,0,0.0,0,81.1,87,4,single,True,3.35,1
+Set The Tone || aespa,Set The Tone,aespa,5,0,0.0,0,60.8,64,15,album,False,3.38,10
+Seven (David Guetta Remix) || Jung Kook & Latto & David Guetta,Seven (David Guetta Remix),Jung Kook & Latto & David Guetta,4,0,0.0,0,44.5,62,23,single,True,2.62,2
+Seven (feat. Latto) (Alesso Remix) || Jung Kook & Latto,Seven (feat. Latto) (Alesso Remix),Jung Kook & Latto,8,0,0.0,0,59.5,72,17,single,True,2.71,4
+Seven (feat. Latto) (Band Ver.) || Jung Kook & Latto,Seven (feat. Latto) (Band Ver.),Jung Kook & Latto,10,0,0.0,0,74.5,77,16,single,False,3.16,5
+Seven (feat. Latto) (Explicit Ver.) || Jung Kook,Seven (feat. Latto) (Explicit Ver.),Jung Kook,385,0,0.0,0,86.24,91,1,album,True,3.06,11
+Seven (feat. Latto) (Explicit Ver.) || Jung Kook & Latto,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,109,0,0.0,0,98.3,100,1,single,True,3.07,3
+Seven (feat. Latto) (Explicit Ver.) || Jung Kook & Latto & BTS,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto & BTS,2,0,0.0,0,92.0,93,1,single,True,3.07,3
+Seven (feat. Latto) (Instrumental) || Jung Kook & Latto,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,20,0,0.0,0,80.2,81,9,single,False,3.07,3
+Seven (feat. Latto) (Instrumental) || Jung Kook & Latto & BTS,Seven (feat. Latto) (Instrumental),Jung Kook & Latto & BTS,2,0,0.0,0,78.0,79,12,single,False,3.07,3
+Seven (feat. Latto) (Lofi Mix) || Jung Kook & Latto,Seven (feat. Latto) (Lofi Mix),Jung Kook & Latto,2,0,0.0,0,67.0,68,47,single,False,3.35,7
+Seven (feat. Latto) (Summer Mix) || Jung Kook & Latto,Seven (feat. Latto) (Summer Mix),Jung Kook & Latto,6,0,0.0,0,72.67,78,12,single,False,3.36,5
+Sexy In The Air || TAEMIN,Sexy In The Air,TAEMIN,11,0,0.0,0,55.36,65,27,single,False,3.25,7
+She Smiled || DAY6,She Smiled,DAY6,5,0,0.0,0,53.0,56,27,album,False,3.38,8
+"Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim) || IU","Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim)",IU,4,0,0.0,0,58.0,58,19,single,False,3.78,5
+Shoong! (feat. LISA of BLACKPINK) || TAEYANG,Shoong! (feat. LISA of BLACKPINK),TAEYANG,10,0,0.0,0,78.9,79,40,album,False,3.42,6
+Shopper || IU,Shopper,IU,18,0,0.0,0,69.0,74,15,single,False,3.6,5
+Shot Glass of Tears || Jung Kook,Shot Glass of Tears,Jung Kook,45,2,36.0,62,82.96,86,13,album,False,2.79,11
+Shxtty Game || DAY6,Shxtty Game,DAY6,3,0,0.0,0,50.0,53,42,album,False,3.16,8
+Siren || RIIZE,Siren,RIIZE,32,0,0.0,0,65.44,68,8,single,False,2.47,1
+Skrr (feat. GISELLE) || HAON,Skrr (feat. GISELLE),HAON,5,0,0.0,0,55.4,58,30,single,False,3.65,1
+Slime You Out (feat. SZA) || Drake & SZA,Slime You Out (feat. SZA),Drake & SZA,2,0,0.0,0,37.5,75,37,single,True,5.17,1
+Slow Dance (feat. Sofia Carson) || Jimin,Slow Dance (feat. Sofia Carson),Jimin,129,0,0.0,0,76.02,80,6,album,False,3.14,7
+Slow Dancing (FRNK Remix) || V,Slow Dancing (FRNK Remix),V,2,0,0.0,0,0.0,0,44,single,False,2.83,2
+Slow Dancing (Piano Ver.) || V,Slow Dancing (Piano Ver.),V,60,1,54.0,54,85.53,87,13,single,False,3.13,6
+Slow Dancing || V,Slow Dancing,V,235,0,0.0,0,90.42,96,4,single,False,3.12,6
+Small girl (feat. D.O.) || Lee Young Ji,Small girl (feat. D.O.),Lee Young Ji,93,0,0.0,0,73.28,77,4,single,False,3.16,6
+Smart || LE SSERAFIM,Smart,LE SSERAFIM,118,0,0.0,0,77.31,87,9,single,False,2.77,5
+Smeraldo Garden Marching Band (feat. Loco) || Jimin,Smeraldo Garden Marching Band (feat. Loco),Jimin,129,0,0.0,0,75.64,80,3,album,False,3.05,7
+Smeraldo Garden Marching Band (feat. Loco) || Jimin & Loco,Smeraldo Garden Marching Band (feat. Loco),Jimin & Loco,20,0,0.0,0,89.5,93,2,single,False,3.05,1
+"Smoke (Prod. Dynamicduo, Padi) || Various Artists","Smoke (Prod. Dynamicduo, Padi)",Various Artists,46,0,0.0,0,71.09,78,18,single,False,3.49,4
+Smoothie || NCT DREAM,Smoothie,NCT DREAM,11,0,0.0,0,67.27,71,22,single,False,3.13,6
+Snooze (Acoustic) (feat. Justin Bieber) || SZA & Justin Bieber,Snooze (Acoustic) (feat. Justin Bieber),SZA & Justin Bieber,1,0,0.0,0,0.0,0,43,single,True,3.17,1
+Snow Flower (feat. Peakboy) || V,Snow Flower (feat. Peakboy),V,12,0,0.0,0,67.75,77,25,single,False,3.82,1
+Snowman || Sia,Snowman,Sia,10,0,0.0,0,94.0,94,14,album,False,2.76,13
+"So Long, London || Taylor Swift","So Long, London",Taylor Swift,2,0,0.0,0,81.5,82,44,album,False,4.38,16
+Somebody || D.O.,Somebody,D.O.,3,0,0.0,0,76.0,76,47,single,False,2.65,7
+Somebody || Jung Kook,Somebody,Jung Kook,63,2,22.0,35,82.48,87,11,album,False,2.81,11
+Soñar (Breaker) || NMIXX,Soñar (Breaker),NMIXX,1,0,0.0,0,58.0,58,46,album,False,2.88,7
+Spark - WINTER Solo || aespa,Spark - WINTER Solo,aespa,1,0,0.0,0,64.0,64,44,single,False,3.34,4
+Spicy || aespa,Spicy,aespa,120,0,0.0,0,83.17,85,3,single,False,3.28,6
+Spicy || aespa & Nitepunk,Spicy,aespa & Nitepunk,1,0,0.0,0,0.0,0,44,single,False,3.28,2
+Spring Snow || 10CM,Spring Snow,10CM,22,0,0.0,0,74.32,77,30,single,False,3.36,2
+"St. Chroma (feat. Daniel Caesar) || Tyler, The Creator",St. Chroma (feat. Daniel Caesar),"Tyler, The Creator",2,0,0.0,0,81.0,83,30,album,True,3.28,14
+Standing Next to You (USHER Remix) || Jung Kook & USHER,Standing Next to You (USHER Remix),Jung Kook & USHER,15,0,0.0,0,82.87,83,21,single,False,3.58,1
+Standing Next to You (Usher Remix) || Jung Kook & USHER,Standing Next to You (Usher Remix),Jung Kook & USHER,57,0,0.0,0,79.18,83,15,single,False,3.58,1
+Standing Next to You - Sped Up - Remix || Beat Record,Standing Next to You - Sped Up - Remix,Beat Record,1,0,0.0,0,0.0,0,8,album,True,3.52,10
+Standing Next to You || Jung Kook,Standing Next to You,Jung Kook,384,0,0.0,0,91.59,98,3,album,False,3.43,11
+Stay Alive (Prod. SUGA of BTS) || Jung Kook,Stay Alive (Prod. SUGA of BTS),Jung Kook,13,1,25.0,25,82.31,83,34,single,False,3.52,1
+Stay With Me (Feat. Skinny Brown) || ASH ISLAND,Stay With Me (Feat. Skinny Brown),ASH ISLAND,3,0,0.0,0,49.0,52,26,single,False,2.87,1
+Steady || NCT WISH,Steady,NCT WISH,5,0,0.0,0,53.6,59,25,album,False,2.99,7
+"Steal The Show - From ""Elemental"" || Lauv","Steal The Show - From ""Elemental""",Lauv,105,0,0.0,0,76.62,79,8,single,False,3.2,1
+Sticky || KISS OF LIFE,Sticky,KISS OF LIFE,109,0,0.0,0,79.6,82,6,single,False,2.62,2
+Still With You || Jung Kook,Still With You,Jung Kook,109,0,0.0,0,86.29,91,8,single,False,4.0,1
+Stinky Kiss (Intro) || Beenzino,Stinky Kiss (Intro),Beenzino,2,0,0.0,0,43.5,46,31,album,True,2.79,18
+Sudden Shower || ECLIPSE,Sudden Shower,ECLIPSE,77,0,0.0,0,77.01,79,26,single,False,3.88,8
+Sugarcoat (NATTY Solo) || KISS OF LIFE,Sugarcoat (NATTY Solo),KISS OF LIFE,17,0,0.0,0,73.65,74,26,single,False,3.0,6
+Summer (Feat. BE’O) || Paul Blanco,Summer (Feat. BE’O),Paul Blanco,23,0,0.0,0,66.91,68,44,single,True,3.33,1
+Sunflower - Spider-Man: Into the Spider-Verse || Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,23,1,64.0,64,88.09,89,31,album,False,2.63,17
+Super Bowl || Stray Kids,Super Bowl,Stray Kids,1,0,0.0,0,69.0,69,50,album,False,3.05,12
+Super Lady || (G)I-DLE,Super Lady,(G)I-DLE,14,0,0.0,0,78.07,82,32,album,False,2.54,8
+Super Shy || NewJeans,Super Shy,NewJeans,409,1,25.0,25,87.42,95,1,single,False,2.58,2
+Super Tuna || Jin,Super Tuna,Jin,8,0,0.0,0,83.62,84,24,single,False,1.91,1
+Super || SEVENTEEN,Super,SEVENTEEN,79,0,0.0,0,87.54,88,13,single,False,3.34,6
+Supernatural (Instrumental) || NewJeans,Supernatural (Instrumental),NewJeans,6,0,0.0,0,45.5,59,17,single,False,3.18,4
+Supernatural || NewJeans,Supernatural,NewJeans,157,0,0.0,0,79.71,83,1,single,False,3.18,4
+Supernova - Japanese Version || KANGDANIEL,Supernova - Japanese Version,KANGDANIEL,10,0,0.0,0,58.6,61,38,single,False,3.47,1
+Supernova || aespa,Supernova,aespa,194,0,0.0,0,71.55,81,1,single,False,2.98,1
+Supernova || aespa & Grimes & Flava D,Supernova,aespa & Grimes & Flava D,1,0,0.0,0,0.0,0,17,single,False,2.98,6
+Supersonic || fromis_9,Supersonic,fromis_9,105,0,0.0,0,71.06,73,10,single,False,2.9,3
+Swan Song || LE SSERAFIM,Swan Song,LE SSERAFIM,24,0,0.0,0,77.38,80,15,single,False,2.62,5
+Sweet Night || V,Sweet Night,V,23,0,0.0,0,79.91,81,31,single,False,3.57,2
+Sweet Venom || ENHYPEN,Sweet Venom,ENHYPEN,1,0,0.0,0,0.0,0,50,album,False,2.48,7
+T.B.H || QWER,T.B.H,QWER,155,2,16.0,22,61.31,65,10,single,False,2.93,7
+TALKING || Kanye West & Ty Dolla $ign,TALKING,Kanye West & Ty Dolla $ign,1,0,0.0,0,78.0,78,26,album,True,3.09,16
+THANK GOD || Travis Scott,THANK GOD,Travis Scott,2,0,0.0,0,42.0,84,21,album,True,3.08,19
+TIME MOVING SLOW || ¥$ & Kanye West & Ty Dolla $ign,TIME MOVING SLOW,¥$ & Kanye West & Ty Dolla $ign,1,0,0.0,0,0.0,0,44,album,True,2.66,16
+TOO MUCH || The Kid LAROI,TOO MUCH,The Kid LAROI,1,0,0.0,0,35.0,35,49,album,True,3.4,20
+TOO MUCH || The Kid LAROI & Jung Kook & Central Cee,TOO MUCH,The Kid LAROI & Jung Kook & Central Cee,21,0,0.0,0,86.81,92,3,single,True,3.4,1
+TOPLINE (Feat. Tiger JK) || Stray Kids,TOPLINE (Feat. Tiger JK),Stray Kids,1,0,0.0,0,71.0,71,49,album,False,3.39,12
+Take Two || BTS,Take Two,BTS,155,0,0.0,0,89.32,96,5,single,False,3.83,1
+Talk Saxy || RIIZE,Talk Saxy,RIIZE,22,2,30.0,34,63.77,70,26,single,False,3.18,1
+Taste || Sabrina Carpenter,Taste,Sabrina Carpenter,25,0,0.0,0,93.0,96,29,album,False,2.62,12
+Teddy Bear || STAYC,Teddy Bear,STAYC,13,0,0.0,0,73.92,74,42,single,False,3.16,2
+That's What I Like || Bruno Mars,That's What I Like,Bruno Mars,5,1,508.0,508,87.0,87,38,album,False,3.44,9
+The Astronaut || JIN,The Astronaut,JIN,1,0,0.0,0,79.0,79,50,single,False,4.71,1
+The Astronaut || Jin,The Astronaut,Jin,6,0,0.0,0,82.5,83,27,single,False,4.71,1
+The Breakup Anthem || Ebstar,The Breakup Anthem,Ebstar,1,0,0.0,0,1.0,1,45,album,False,3.11,40
+The First Snow || EXO,The First Snow,EXO,15,0,0.0,0,71.33,73,19,single,False,3.46,6
+The Planet || BTS,The Planet,BTS,41,2,10.0,12,87.51,89,18,single,False,2.97,1
+The Tortured Poets Department || Taylor Swift,The Tortured Poets Department,Taylor Swift,3,0,0.0,0,83.0,84,29,album,True,4.88,16
+The Unknown Sea || TAEMIN,The Unknown Sea,TAEMIN,1,0,0.0,0,51.0,51,45,single,False,3.28,7
+Thirsty || aespa,Thirsty,aespa,47,0,0.0,0,76.85,77,17,single,False,3.22,6
+Tick-Tack || ILLIT,Tick-Tack,ILLIT,2,0,0.0,0,73.5,74,49,single,False,2.16,5
+Time of Our Life -Japanese ver.- - Japanese ver. || DAY6,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,102,4,35.5,72,55.38,57,25,single,False,3.43,4
+Timeless (with Playboi Carti) || The Weeknd & Playboi Carti,Timeless (with Playboi Carti),The Weeknd & Playboi Carti,12,0,0.0,0,86.92,90,4,single,True,4.27,1
+To. X || TAEYEON,To. X,TAEYEON,156,0,0.0,0,74.78,77,12,single,False,2.84,6
+Too Sad to Dance || Jung Kook,Too Sad to Dance,Jung Kook,44,2,42.0,68,81.91,86,10,album,False,2.93,11
+Touch || KATSEYE,Touch,KATSEYE,78,0,0.0,0,83.56,86,16,single,False,2.16,1
+Travel Again (Feat. Cautious Clay) || Beenzino,Travel Again (Feat. Cautious Clay),Beenzino,10,0,0.0,0,51.7,56,12,album,True,4.28,18
+Trippy (Feat. Lance Skiiiwalker) || Beenzino,Trippy (Feat. Lance Skiiiwalker),Beenzino,2,0,0.0,0,41.0,44,39,album,True,4.62,18
+Trust in me || Lim Young Woong,Trust in me,Lim Young Woong,25,0,0.0,0,57.8,59,42,single,False,4.05,2
+Type Shit || Future & Metro Boomin,Type Shit,Future & Metro Boomin,1,0,0.0,0,0.0,0,48,album,True,3.8,17
+UNFORGIVEN (feat. Nile Rodgers) || LE SSERAFIM,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,103,0,0.0,0,87.78,89,2,album,False,3.04,13
+UNLOVE (prod. HONNE) || Zion.T,UNLOVE (prod. HONNE),Zion.T,1,0,0.0,0,48.0,48,45,album,False,3.0,10
+UP - KARINA Solo || aespa,UP - KARINA Solo,aespa,48,0,0.0,0,79.75,82,4,single,False,2.78,4
+Underneath the Tree || Kelly Clarkson,Underneath the Tree,Kelly Clarkson,4,0,0.0,0,86.0,86,18,album,False,3.83,14
+V (Peace) (feat. AKMU) || Zion.T,V (Peace) (feat. AKMU),Zion.T,4,0,0.0,0,55.5,57,36,album,False,2.48,10
+VIBE (feat. Jimin of BTS) || TAEYANG,VIBE (feat. Jimin of BTS),TAEYANG,69,1,98.0,98,70.32,72,28,album,False,2.93,6
+Vancouver 2 || BIG Naughty,Vancouver 2,BIG Naughty,17,0,0.0,0,49.65,60,8,single,False,3.37,1
+Vancouver || BIG Naughty,Vancouver,BIG Naughty,9,1,101.0,101,58.56,59,33,single,False,3.6,2
+WAY 4 LUV || PLAVE,WAY 4 LUV,PLAVE,12,1,55.0,55,59.17,61,41,single,False,3.66,6
+Walk || NCT 127,Walk,NCT 127,10,0,0.0,0,62.1,66,27,album,False,3.2,11
+Warmth || Lim Young Woong,Warmth,Lim Young Woong,195,0,0.0,0,62.72,66,11,single,False,3.92,2
+Water || Tyla,Water,Tyla,2,0,0.0,0,93.0,93,42,single,False,3.34,1
+We got so much || LE SSERAFIM,We got so much,LE SSERAFIM,4,0,0.0,0,68.75,70,25,single,False,2.76,5
+Welcome To MY World (feat. nævis) || aespa,Welcome To MY World (feat. nævis),aespa,8,0,0.0,0,77.0,77,35,single,False,3.45,1
+Welcome to the Show || DAY6,Welcome to the Show,DAY6,97,2,76.5,141,59.68,67,22,album,False,3.62,7
+Well…? || YANGHONGWON,Well…?,YANGHONGWON,3,0,0.0,0,40.0,43,32,album,False,2.35,8
+What The Hell || E SENS,What The Hell,E SENS,1,0,0.0,0,37.0,37,41,album,False,2.53,13
+Whiplash || aespa,Whiplash,aespa,36,0,0.0,0,76.31,80,3,single,False,3.05,6
+Who (Acoustic Remix) || Jimin,Who (Acoustic Remix),Jimin,97,1,24.0,24,63.88,67,18,album,False,3.07,10
+Who (Beautiful Mind Remix) || Jimin,Who (Beautiful Mind Remix),Jimin,78,1,30.0,30,63.14,66,20,album,False,2.97,10
+Who (Funky Remix) || Jimin,Who (Funky Remix),Jimin,82,1,29.0,29,63.2,66,23,album,False,3.14,10
+Who (Instrumental) || Jimin,Who (Instrumental),Jimin,90,1,29.0,29,62.69,66,17,album,False,2.85,10
+Who (Rock Remix) || Jimin,Who (Rock Remix),Jimin,101,2,11.0,14,64.33,68,16,album,False,2.87,10
+Who (Shibuyakei Remix) || Jimin,Who (Shibuyakei Remix),Jimin,89,1,30.0,30,63.52,67,20,album,False,2.78,10
+Who || Jimin,Who,Jimin,129,0,0.0,0,92.8,95,1,album,False,2.85,7
+Why? || PLAVE,Why?,PLAVE,5,0,0.0,0,54.2,55,34,single,False,2.46,1
+Wife || (G)I-DLE,Wife,(G)I-DLE,38,0,0.0,0,72.26,78,20,single,False,2.02,1
+Winter Bear || V,Winter Bear,V,12,0,0.0,0,68.67,78,22,single,False,2.91,1
+With you || Jimin & HA SUNG WOON,With you,Jimin & HA SUNG WOON,22,2,110.0,201,76.05,77,20,single,False,3.37,2
+XO (Only If You Say Yes) || ENHYPEN,XO (Only If You Say Yes),ENHYPEN,5,0,0.0,0,72.2,76,40,album,False,3.14,9
+"Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush) || GroovyRoom","Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",GroovyRoom,13,0,0.0,0,64.77,70,16,single,False,2.99,1
+"Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush) || GroovyRoom & HUH YUNJIN","Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush)",GroovyRoom & HUH YUNJIN,54,0,0.0,0,73.31,75,14,single,False,2.99,1
+Yes or No || Jung Kook,Yes or No,Jung Kook,181,0,0.0,0,85.66,90,7,album,False,2.46,11
+You & Me (Coachella ver.) || JENNIE,You & Me (Coachella ver.),JENNIE,3,0,0.0,0,50.0,76,4,single,False,3.0,2
+You & Me || JENNIE,You & Me,JENNIE,63,2,15.5,18,80.92,83,4,single,False,2.99,2
+You Were Beautiful || DAY6,You Were Beautiful,DAY6,60,2,84.0,149,64.67,67,26,album,False,4.72,14
+Young Man || HYUKOH & 落日飛車 Sunset Rollercoaster,Young Man,HYUKOH & 落日飛車 Sunset Rollercoaster,9,0,0.0,0,47.89,55,13,single,False,4.29,1
+bye || Ariana Grande,bye,Ariana Grande,5,0,0.0,0,83.0,87,34,album,False,2.75,13
+don't wanna break up again || Ariana Grande,don't wanna break up again,Ariana Grande,1,0,0.0,0,84.0,84,49,album,True,2.9,13
+double take || Dhruv,double take,Dhruv,31,1,10.0,10,82.1,83,30,album,False,2.86,8
+eternal sunshine || Ariana Grande,eternal sunshine,Ariana Grande,4,0,0.0,0,77.25,85,40,album,False,3.5,13
+euphoria || Kendrick Lamar,euphoria,Kendrick Lamar,3,0,0.0,0,81.0,89,42,single,True,6.39,1
+greedy || Tate McRae,greedy,Tate McRae,9,0,0.0,0,94.89,96,45,single,True,2.2,1
+i don't know (with HUH YUNJIN of LE SSERAFIM) || j-hope,i don't know (with HUH YUNJIN of LE SSERAFIM),j-hope,1,0,0.0,0,65.0,65,46,single,False,3.05,6
+i like the way you kiss me || Artemas,i like the way you kiss me,Artemas,2,0,0.0,0,98.0,98,42,single,False,2.38,1
+i wonder... (with Jung Kook of BTS) || j-hope,i wonder... (with Jung Kook of BTS),j-hope,14,0,0.0,0,77.43,81,21,single,False,2.73,6
+lock / unlock (with benny blanco & Nile Rodgers) || j-hope,lock / unlock (with benny blanco & Nile Rodgers),j-hope,1,0,0.0,0,65.0,65,49,single,False,3.03,6
+luther (with sza) || Kendrick Lamar,luther (with sza),Kendrick Lamar,3,0,0.0,0,58.0,64,20,album,False,2.96,12
+number one girl || ROSÉ,number one girl,ROSÉ,4,0,0.0,0,76.75,80,8,single,False,3.61,2
+plot twist || TWS,plot twist,TWS,131,1,8.0,8,75.34,78,8,single,False,2.54,5
+squabble up || Kendrick Lamar,squabble up,Kendrick Lamar,3,0,0.0,0,83.67,86,26,album,True,2.63,12
+vampire || Olivia Rodrigo,vampire,Olivia Rodrigo,38,0,0.0,0,96.5,99,21,single,True,3.66,1
+wacced out murals || Kendrick Lamar,wacced out murals,Kendrick Lamar,1,0,0.0,0,81.0,81,38,album,True,5.28,12
+we can't be friends (wait for your love) || Ariana Grande,we can't be friends (wait for your love),Ariana Grande,59,0,0.0,0,93.66,96,15,album,False,3.81,13
+wherever u r (ft. V of BTS) || UMI & V,wherever u r (ft. V of BTS),UMI & V,70,0,0.0,0,86.1,90,14,single,False,2.55,1
+"yes, and? || Ariana Grande","yes, and?",Ariana Grande,43,1,20.0,20,92.47,97,13,single,True,3.58,1
+アイドル || YOASOBI,アイドル,YOASOBI,118,1,19.0,19,89.27,92,7,single,False,3.55,1
+地球儀 - Spinning Globe || Kenshi Yonezu,地球儀 - Spinning Globe,Kenshi Yonezu,2,0,0.0,0,76.0,76,48,single,False,4.56,1
+愛を伝えたいだとか || Aimyon,愛を伝えたいだとか,Aimyon,34,0,0.0,0,69.44,70,32,album,False,3.92,11
+踊り子 || Vaundy,踊り子,Vaundy,85,0,0.0,0,70.51,71,14,album,False,3.82,35
+青い珊瑚礁 || Seiko Matsuda,青い珊瑚礁,Seiko Matsuda,11,0,0.0,0,52.82,54,30,album,False,3.67,36
+녹아내려요 Melt Down || DAY6,녹아내려요 Melt Down,DAY6,2,0,0.0,0,55.0,55,30,single,False,2.76,8
+"무제(無題) (Untitled, 2014) || G-DRAGON","무제(無題) (Untitled, 2014)",G-DRAGON,2,1,22.0,22,59.5,61,43,single,False,3.71,5
+예뻤어 || DAY6,예뻤어,DAY6,2,0,0.0,0,49.0,49,43,album,False,4.72,14
+한 페이지가 될 수 있게 || DAY6,한 페이지가 될 수 있게,DAY6,2,0,0.0,0,52.0,52,35,single,False,3.43,6
