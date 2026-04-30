@@ -95,7 +95,7 @@ album type comparison, time trends, explicit content, and correlations.
 ---
 
 ## 🚀 Live Dashboard
-🔗 [Streamlit App — Deployed Link]
+🔗 https://atlantic-south-korea-project-ldvckytufaupvymswvucb3.streamlit.app/
 
 ---
 
